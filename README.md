@@ -6,4 +6,4 @@ The main scheme used for the code is the one showed below:
 
 If you want to follow more information about this project, you can read some issues at this pjrc forum link:
 
-![url](https://forum.pjrc.com/index.php?threads/teensy-4-0-audio-shield-line-in-microphones.75662/)
+[https://forum.pjrc.com/index.php?threads/teensy-4-0-audio-shield-line-in-microphones.75662/](https://forum.pjrc.com/index.php?threads/teensy-4-0-audio-shield-line-in-microphones.75662/)
