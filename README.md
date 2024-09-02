@@ -3,7 +3,8 @@ My Teensy 4.0 with two Audio Shield (Rev D) boards to build an Active Noise Canc
 
 The main scheme used for the code is the one showed below:
 
-![image](https://github.com/user-attachments/assets/5a14a570-2382-459f-ba6e-19c658d96e1a)
+![image](https://github.com/user-attachments/assets/bdb1b783-071e-4431-8e3a-0a009fe5677d)
+
 
 If you want to follow more information about this project, you can read some issues at this pjrc forum link:
 
